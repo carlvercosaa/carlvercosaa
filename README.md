@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, seja bem-vindo(a)! 👋
 
-<!--
-**carlvercosaa/carlvercosaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Carlson**, apaixonado por dados e por transformar informações em insights acionáveis. Atuo como Data Scientist, combinando conhecimento técnico e visão estratégica para resolver problemas reais com inteligência artificial e machine learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Sobre mim
+- 🔭 Atualmente estou desenvolvendo projetos focados em análise preditiva, NLP e pipelines avançados utilizando modelos generativos (LLMs e RAG).
+- 🌱 Estou estudando constantemente técnicas de otimização e visualização de dados, com foco em criar soluções escaláveis e de alto impacto.
+- 🛠️ Principais ferramentas: **Python, Pandas, NumPy, Scikit-Learn, LangChain, LangGraph, Matplotlib, Seaborn, SQL, AWS e Databricks.**
+- 📖 Interesses acadêmicos: Ciência de Dados, Machine Learning, Engenharia de Dados, NLP, Series Temporais e RAG.
+
+---
+
+## 🚀 Projetos em destaque
+
+---
+
+## 🎯 Meu objetivo
+Meu objetivo é criar soluções práticas, escaláveis e inovadoras para desafios reais por meio da Ciência de Dados, ajudando organizações a tomarem melhores decisões.
+
+---
+
+⭐ Se gostou dos meus projetos ou ideias, não se esqueça de deixar uma estrela ou um follow! Obrigado por visitar meu perfil.
