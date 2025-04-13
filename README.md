@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo(a)! 👋
 
-Sou **Carlson**, apaixonado por dados e por transformar informações em insights acionáveis. Atuo como Data Scientist, combinando conhecimento técnico e visão estratégica para resolver problemas reais com inteligência artificial e machine learning.
+Sou **Carlson**, apaixonado por IA e dados, transformando informações em insights acionáveis. Atuo como Data Scientist, combinando conhecimento técnico e visão estratégica para resolver problemas reais com inteligência artificial e machine learning.
 
 ---
 
